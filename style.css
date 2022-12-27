@@ -113,8 +113,9 @@ body {
   }
   
   .description, .humidity, .wind {
-    color: #ffe600;
+    color: #ffa600;
     text-transform: capitalize;
+    font-weight: 500;
 
   }
   
